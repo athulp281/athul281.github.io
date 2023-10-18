@@ -26,7 +26,7 @@ export default function SmokeTitle({ title, textStyle }) {
                         style={{ background: data }}
                     >
                         <video
-                            style={{ height: "150px" }}
+                            style={{ height: "100px" }}
                             className="smokevideo"
                             src={smokeVideo}
                             autoPlay
@@ -45,7 +45,7 @@ export default function SmokeTitle({ title, textStyle }) {
                 ) : (
                     <section
                         className="smokesection"
-                        style={{ background: "red" }}
+                        style={{ background: data }}
                     >
                         <h1 className="smoketext">
                             {mappedArray.map((item) => {

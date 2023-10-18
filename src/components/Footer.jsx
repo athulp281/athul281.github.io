@@ -40,15 +40,6 @@ export default function Footer() {
                             <i className="uil uil-github-alt"></i>
                         </div>
                     </div>
-                    {/* <div className="bottom-footer">
-                    <p>
-                        Copyright &copy;{" "}
-                        <a href="#home" style="text-decoration: none;">
-                            John Doe
-                        </a>{" "}
-                        - All rights reserved
-                    </p>
-                </div> */}
                 </footer>
             </main>
         </div>

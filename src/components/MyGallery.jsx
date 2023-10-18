@@ -54,49 +54,49 @@ export default function MyGallery() {
                             <div className="image-container">
                                 <span style={inlineStyle1}>
                                     <img
-                                        src="/src/assets/img/1.jpg"
+                                        src="/src/assets/img/1.webp"
                                         alt="not found"
                                     />
                                 </span>
                                 <span style={inlineStyle2}>
                                     <img
-                                        src="/src/assets/img/2.jpg"
+                                        src="/src/assets/img/2.webp"
                                         alt="not found"
                                     />
                                 </span>
                                 <span style={inlineStyle3}>
                                     <img
-                                        src="/src/assets/img/3.jpg"
+                                        src="/src/assets/img/3.webp"
                                         alt="not found"
                                     />
                                 </span>
                                 <span style={inlineStyle4}>
                                     <img
-                                        src="/src/assets/img/4.jpg"
+                                        src="/src/assets/img/4.webp"
                                         alt="not found"
                                     />
                                 </span>
                                 <span style={inlineStyle5}>
                                     <img
-                                        src="/src/assets/img/5.jpeg"
+                                        src="/src/assets/img/5.webp"
                                         alt="not found"
                                     />
                                 </span>
                                 <span style={inlineStyle6}>
                                     <img
-                                        src="/src/assets/img/6.jpg"
+                                        src="/src/assets/img/6.webp"
                                         alt="not found"
                                     />
                                 </span>
                                 <span style={inlineStyle7}>
                                     <img
-                                        src="/src/assets/img/7.jpg"
+                                        src="/src/assets/img/7.webp"
                                         alt="not found"
                                     />
                                 </span>
                                 <span style={inlineStyle8}>
                                     <img
-                                        src="/src/assets/img/1.jpg"
+                                        src="/src/assets/img/1.webp"
                                         alt="not found"
                                     />
                                 </span>
