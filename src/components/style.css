@@ -648,6 +648,12 @@ footer {
     }
 }
 
+.top-header h2 {
+    font-size: 35px;
+}
+.top-header span {
+    padding-left: 15px;
+}
 /* ----- MEDIA QUERY == 540px / RESPONSIVE ----- */
 
 @media only screen and (max-width: 540px) {

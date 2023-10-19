@@ -22,9 +22,9 @@ export default function AboutBox() {
                     <section className="section" id="about">
                         <div className="top-header">
                             {/* ---------------------------------- */}
-                            <div className="my-tilte">
-                                <SmokeTitle title="about" />
-                            </div>
+                            <h2>
+                                A B O U T <span /> M E
+                            </h2>
 
                             {/* <h1>About Me</h1> */}
                         </div>

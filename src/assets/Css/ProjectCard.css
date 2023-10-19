@@ -62,3 +62,16 @@
         position: relative;
     }
 }
+.about-insta {
+    display: flex;
+    justify-content: center;
+}
+.insta-img img {
+    height: 30px;
+}
+.insta-title {
+    padding-top: 5px;
+}
+.insta-title h3 {
+    font-size: 13px;
+}

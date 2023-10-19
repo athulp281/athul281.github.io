@@ -6,6 +6,7 @@ import "../assets/Css/ProjectCard.css";
 import adminPanelimg from "../assets/ProjectCardImages/intrvl-admn-pnl.png";
 import mypersonalportfolio from "../assets/ProjectCardImages/my-personal-portfolio.png";
 import dynamicform from "../assets/ProjectCardImages/dynamic-form.png";
+import ImageSlider from "./ImageSlider";
 
 export default function ProjectBox() {
     const { data, setData } = useContext(MyContext);
@@ -25,9 +26,7 @@ export default function ProjectBox() {
                     <main className="wrapper">
                         {/* <!-- -------------- PROJECT BOX ---------------- --> */}
                         <div className="top-header">
-                            <div className="my-title">
-                                <SmokeTitle title="Projects" />
-                            </div>
+                            <h2>P R O J E C T S</h2>
                         </div>
 
                         <section className="section" id="projects">

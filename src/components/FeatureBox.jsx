@@ -87,7 +87,12 @@ export default function FeatureBox() {
                                     </a>
                                 </div>
                                 <div className="icon">
-                                    <i className="uil uil-twitter"></i>
+                                    <a
+                                        href="https://twitter.com/Athul__P"
+                                        target="_blank"
+                                    >
+                                        <i className="uil uil-twitter"></i>
+                                    </a>
                                 </div>
                                 <div className="icon">
                                     <a

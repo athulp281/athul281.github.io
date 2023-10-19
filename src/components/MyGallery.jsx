@@ -1,8 +1,8 @@
 import React, { useContext, useEffect } from "react";
 import ScrollReveal from "scrollreveal";
 import MyContext from "../useContext/Context";
-import SmokeTitle from "./SmokeTitle";
 import "../assets/Css/MyGallery.css";
+import instaimg from "../assets/img/insta-img.png";
 
 export default function MyGallery() {
     const { data, setData } = useContext(MyContext);
@@ -48,8 +48,17 @@ export default function MyGallery() {
                     <section className="section" id="about">
                         <div className="top-header">
                             {/* ---------------------------------- */}
-                            <SmokeTitle title="gallery" />
+                            <h2>G A L L E R Y</h2>
+                            <div className="about-insta">
+                                <div className="insta-img">
+                                    <img src={instaimg} alt="insta" />
+                                </div>
+                                <div className="insta-title">
+                                    <h3>@perfect_click_011</h3>
+                                </div>
+                            </div>
                         </div>
+
                         <div className="main-container">
                             <div className="image-container">
                                 <span style={inlineStyle1}>
