@@ -1,6 +1,6 @@
 .pro-box {
     padding-top: 1;
-    width: 320px;
+    width: 360px;
     height: 400px;
     border-radius: 20px;
     overflow: hidden;
@@ -44,7 +44,7 @@
     font-weight: 300;
 }
 .card-info {
-    font-size: 16px;
+    font-size: 13px;
     line-height: 25px;
     margin: 40px 0;
     font-weight: 300;

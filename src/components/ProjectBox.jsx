@@ -43,15 +43,25 @@ export default function ProjectBox() {
                                         </h1>
                                         <p className="card-sub-title">React</p>
                                         <p className="card-info">
-                                            Lorem ipsum dolor sit amet
-                                            consectetur, adipisicing elit.
-                                            Facere repellat dicta perspiciatis
-                                            perferendis a suscipit. Nobis
-                                            molestias placeat sit! Fugiat ad,
-                                            pariatur{" "}
+                                            This project is focused on building
+                                            a user-friendly and feature-rich
+                                            admin panel using the React
+                                            JavaScript library. To efficiently
+                                            manage application state, it
+                                            leverages the Redux state management
+                                            system. The user interface of the
+                                            admin panel is designed with the
+                                            Material-UI framework, ensuring a
+                                            clean, modern, and responsive
+                                            design.
                                         </p>
                                         <button className="card-btn">
-                                            Demo
+                                            <a
+                                                href="https://github.com/athulp281"
+                                                target="_blank"
+                                            >
+                                                GitHub
+                                            </a>
                                         </button>
                                     </div>
                                 </div>
@@ -70,15 +80,24 @@ export default function ProjectBox() {
                                             React + Vite
                                         </p>
                                         <p className="card-info">
-                                            Lorem ipsum dolor sit amet
-                                            consectetur, adipisicing elit.
-                                            Facere repellat dicta perspiciatis
-                                            perferendis a suscipit. Nobis
-                                            molestias placeat sit! Fugiat ad,
-                                            pariatur
+                                            This project leverages the power of
+                                            React, Vite for quick development,
+                                            and state management through
+                                            useContext for a seamless user
+                                            experience. With the combination of
+                                            HTML5 and CSS, you can showcase your
+                                            skills, projects, and achievements
+                                            in a modern and responsive design
+                                            that leaves a lasting impression on
+                                            visitors.
                                         </p>
                                         <button className="card-btn">
-                                            Demo
+                                            <a
+                                                href="https://github.com/athulp281"
+                                                target="_blank"
+                                            >
+                                                GitHub
+                                            </a>
                                         </button>
                                     </div>
                                 </div>
@@ -97,15 +116,25 @@ export default function ProjectBox() {
                                             React & Formik
                                         </p>
                                         <p className="card-info">
-                                            Lorem ipsum dolor sit amet
-                                            consectetur, adipisicing elit.
-                                            Facere repellat dicta perspiciatis
-                                            perferendis a suscipit. Nobis
-                                            molestias placeat sit! Fugiat ad,
-                                            pariatur{" "}
+                                            This project is designed for
+                                            seamless user registration and
+                                            validation, making use of Formik for
+                                            easy form handling. With a
+                                            user-friendly and responsive design,
+                                            this signup form offers an intuitive
+                                            experience for users as they input
+                                            their information. By combining
+                                            React's interactivity, HTML's
+                                            structure, CSS's styling, and
+                                            Formik's form management.
                                         </p>
                                         <button className="card-btn">
-                                            Demo
+                                            <a
+                                                href="https://github.com/athulp281"
+                                                target="_blank"
+                                            >
+                                                GitHub
+                                            </a>
                                         </button>
                                     </div>
                                 </div>
