@@ -7,11 +7,10 @@ export default function Loader() {
 
   useEffect(() => {
     const interval = setInterval(() => {
-      // Update the percentage value
       if (percentage < 100) {
         setPercentage((prevPercentage) => prevPercentage + 1);
       }
-    }, 10); // You can adjust the speed by changing the interval duration
+    }, 10);
 
     return () => {
       clearInterval(interval);
